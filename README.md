@@ -7,3 +7,4 @@ Some data analysis excercises:
 - Clean file
 - Dispersion model
 - Optimize
+- Linear regression
