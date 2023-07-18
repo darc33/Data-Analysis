@@ -1,0 +1,8 @@
+Id_curso,nombre_curso,modalidad,Intensidad_horaria,Id_docente_FK,Id_aula_FK
+100,Análisis de datos,Presencial,40,1015,51
+101,Excel avanzado,Virtual,60,1010,55
+102,Gestión de proyectos,Semipresencial,100,1011,52
+103,Programación en Python,Virtual,100,1015,51
+104,Programación en Ruby,Presencial,100,1001,54
+105,Programación en Django,Virtual,60,1002,55
+106,Servicio al cliente,Virtual,60,1015,56

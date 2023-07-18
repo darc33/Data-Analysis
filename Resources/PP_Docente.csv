@@ -1,0 +1,17 @@
+id_docente,nombre_docente,correo_docente,genero_docente,Pais_rec_docente,ciudad_docente,profesion_docente,tipo_contrato,id_programa_FK
+1000,Arturo Jamaica,ajamaica@gmail.com,Masculino,Japon,Tokyo,Programador,Prestacion de servicios,10
+1001,Fredy Vega,fvega@gmail.com,Masculino,USA,California,Ing. de Sistemas,Termino fijo,10
+1002,Leonidas Esteban,leonidasesteban@gmail.com,Masculino,Colombia,Bogota,Docente,Free Lance,11
+1003,Patricia Mora,paticiam@gmail.com,Femenino,Mexico,Jalisco,Psicologo,Termino fijo,11
+1004,Andres Gomez,andregom@hotmail.com,Masculino,Colombia,Cali,Tutor,Prestacion de servicios,11
+1005,Catalina Perez,Catalina.perez@hotmail.com,Femenino,Colombia,Medellin,Psicologo,Prestacion de servicios,12
+1006,Raul Perez,rp@hotmail.com,Masculino,Ecuador,Guayaquil,Programador,Termino fijo,10
+1007,Carlos Cruz,carloscruz@hotmail.com,Masculino,Venezuela,Zulia,Administrador,Termino fijo,10
+1008,Andres Camilo Cabezas,akka_akaka@gmail.com,Masculino,Chile,Santiago de chile,Ingeniero(NASA),Free Lance,11
+1009,Victor Alcon,vicon@gmail.com,Masculino,Colombia,Bogota,Ingeniero sanitario,Termino fijo,13
+1010,Mauricio Rodriguez,mrsuan@gmail.com,Masculino,Colombia,Villavicencio,Docente,Termino fijo,13
+1011,Pedro Infante,elmeroinfante@gmail.com,Masculino,Mexico,Guadalajara,Docente,Termino fijo,11
+1012,Carlos Ortiz,carloscruz@hotmail.com,Masculino,Ecuador,Guayaquil,Docente,Termino fijo,11
+1013,Javier Bukinmeyer,Jbukinmeyer@gmail.com,Masculino,Peru,Lima,Psicologo,Termino fijo,10
+1014,Carlos Arturo,Carlos@gmal.com,Masculino,Chile,Santiago de chile,Ingeniero sanitario,Termino fijo,13
+1015,Gonzalo Velandia,gonva24@yahoo.com,Masculino,Colombia,Ibagué,Analista senior,Termino fijo,13
